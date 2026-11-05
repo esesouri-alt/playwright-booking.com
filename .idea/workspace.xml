@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08932b10-a258-4702-8e59-d47fb7bb8004" name="Changes" comment="a">
+    <list default="true" id="08932b10-a258-4702-8e59-d47fb7bb8004" name="Changes" comment="add jmeter file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mohaymen-TestPlan.jmx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\BookingTest\src\test\java" />
+    </key>
+  </component>
   <component name="RunManager" selected="JUnit.BookingTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -170,7 +174,7 @@
       <workItem from="1793511581566" duration="2106000" />
       <workItem from="1793513797272" duration="3579000" />
       <workItem from="1793519662342" duration="19644000" />
-      <workItem from="1793552678966" duration="62601000" />
+      <workItem from="1793552678966" duration="64553000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1793788627162</created>
@@ -214,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1793872902694</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add jmeter file">
+      <created>1793874970850</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1793874970850</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,7 +276,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="add jmeter file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add jmeter file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
