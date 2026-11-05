@@ -485,7 +485,6 @@ public class HomePage extends BasePage {
         page.waitForTimeout(30000);
 
         System.out.println("Current URL after search: " + page.url());
-
     }
 }
 
